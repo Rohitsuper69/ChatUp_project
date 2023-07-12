@@ -28,14 +28,14 @@
   top: 12px;
   font-size: 32px;
   font-weight: 700;
-  color: white;
+  color: black;
 }
 
 .logout-tab {
   position: absolute;
   top: 22px;
   right: 22px;
-  color: white;
+  color: black;
   cursor: pointer;
 }
 
@@ -98,4 +98,7 @@
   position: relative;
   left: calc(50vw - 33px);
   top: calc(50vh - 22px);
+}
+.chat-engine{
+  margin-top: 90px;
 }
