@@ -18,12 +18,12 @@ const Login = () => {
                     <span> Sign in with Google</span>
                 </div>
                 <br /><br />
-                <div
+                {/* <div
                     className='login-button facebook'
                 >
                     <FacebookOutlined />
                     <span> Sign in with Facebook</span>
-                </div>
+                </div> */}
                 <br /><br />
             </div>
         </div>
